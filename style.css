@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster:wght@400;500;700&display=swap');
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#headerText{
+
+    padding-top: 5%;
+}
+#headerTitle{
+    font-family: 'Lobster', serif;
+    padding-bottom: 20px;
+}
+
+button:disabled,button[disabled] {
+            border: 1px solid #999999;
+            background-color: #cccccc;
+            color: #666666;
+}
+
+#lext-img {
+     padding-top: 1em;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+       
